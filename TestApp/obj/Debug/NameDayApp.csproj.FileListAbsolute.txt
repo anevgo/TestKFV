@@ -1,0 +1,12 @@
+C:\Users\EG\source\repos\TestApp\TestApp\bin\Debug\nimet.csv
+C:\Users\EG\source\repos\TestApp\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\EG\source\repos\TestApp\TestApp\bin\Debug\TestApp.exe.manifest
+C:\Users\EG\source\repos\TestApp\TestApp\bin\Debug\TestApp.application
+C:\Users\EG\source\repos\TestApp\TestApp\bin\Debug\TestApp.exe
+C:\Users\EG\source\repos\TestApp\TestApp\bin\Debug\TestApp.pdb
+C:\Users\EG\source\repos\TestApp\TestApp\obj\Debug\NameDayApp.csproj.CoreCompileInputs.cache
+C:\Users\EG\source\repos\TestApp\TestApp\obj\Debug\TestApp.exe.manifest
+C:\Users\EG\source\repos\TestApp\TestApp\obj\Debug\TestApp.application
+C:\Users\EG\source\repos\TestApp\TestApp\obj\Debug\TestApp.exe
+C:\Users\EG\source\repos\TestApp\TestApp\obj\Debug\TestApp.pdb
+C:\Users\EG\source\repos\TestApp\TestApp\obj\Debug\NameDayApp.csprojResolveAssemblyReference.cache
